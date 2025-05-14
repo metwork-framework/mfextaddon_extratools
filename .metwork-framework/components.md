@@ -19,10 +19,10 @@
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [htmltools](https://pypi.org/project/htmltools) | 0.6.0 | python3_extratools |
 | [httpcore](https://www.encode.io/httpcore/) | 1.0.9 | python3_extratools |
-| [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
+| [httpx](https://github.com/encode/httpx) | 0.28.1 | python3_extratools |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_extratools |
-| [ipywidgets](http://jupyter.org) | 8.1.5 | python3_extratools |
+| [ipywidgets](http://jupyter.org) | 8.1.7 | python3_extratools |
 | [isoduration](https://github.com/bolsote/isoduration) | 20.11.0 | python3_extratools |
 | [json5](https://pypi.org/project/json5) | 0.9.25 | python3_extratools |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
@@ -80,7 +80,7 @@
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
 | [websocket-client](https://github.com/websocket-client/websocket-client.git) | 1.8.0 | python3_extratools |
 | [websockets](https://github.com/python-websockets/websockets) | 13.0.1 | python3_extratools |
-| [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
+| [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 
 *(82 components)*
