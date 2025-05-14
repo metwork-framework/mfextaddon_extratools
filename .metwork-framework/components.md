@@ -19,7 +19,7 @@
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [htmltools](https://pypi.org/project/htmltools) | 0.6.0 | python3_extratools |
 | [httpcore](https://www.encode.io/httpcore/) | 1.0.9 | python3_extratools |
-| [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
+| [httpx](https://github.com/encode/httpx) | 0.28.1 | python3_extratools |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_extratools |
 | [ipywidgets](http://jupyter.org) | 8.1.5 | python3_extratools |
