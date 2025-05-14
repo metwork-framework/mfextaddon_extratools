@@ -13,7 +13,7 @@
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 2.0.0 | python3_extratools |
 | [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
-| [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.20.0 | python3_extratools |
+| [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.21.1 | python3_extratools |
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
 | [h11](https://github.com/python-hyper/h11) | 0.16.0 | python3_extratools |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
