@@ -11,7 +11,7 @@ defusedxml==0.7.1
 docstring-to-markdown==0.17
 et-xmlfile==2.0.0
 faicons==0.2.2
-fastjsonschema==2.20.0
+fastjsonschema==2.21.1
 fqdn==1.5.1
 h11==0.16.0
 htmltools==0.5.3
