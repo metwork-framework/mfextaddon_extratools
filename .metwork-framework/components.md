@@ -17,7 +17,7 @@
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
 | [h11](https://github.com/python-hyper/h11) | 0.16.0 | python3_extratools |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
-| [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
+| [htmltools](https://pypi.org/project/htmltools) | 0.6.0 | python3_extratools |
 | [httpcore](https://www.encode.io/httpcore/) | 1.0.9 | python3_extratools |
 | [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |

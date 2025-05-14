@@ -14,7 +14,7 @@ faicons==0.2.2
 fastjsonschema==2.21.1
 fqdn==1.5.1
 h11==0.16.0
-htmltools==0.5.3
+htmltools==0.6.0
 httpcore==1.0.9
 httpx==0.27.2
 ipykernel==6.29.5
