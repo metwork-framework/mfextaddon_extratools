@@ -19,7 +19,9 @@ on:
 env:
 
 
-    DOCKER_RUN_OPTIONS: "-v ${{ github.workspace }}:/src -e GITHUB_REF -e GITHUB_RUN_NUMBER -e GITHUB_SHA -e GITHUB_REPOSITORY"
+    DOCKER_RUN_OPTIONS: "-v ${{ github.workspace }}:/src -v /buildcache:/buildcache -e GITHUB_REF -e GITHUB_RUN_NUMBER -e GITHUB_SHA -e GITHUB_REPOSITORY"
+
+
 
     WORKFLOW_SCRIPTS_DIR: .github/workflows
     DOCKER_WORKFLOW_SCRIPTS_DIR: /src/.github/workflows
@@ -30,7 +32,9 @@ jobs:
   ci_build:
 
 
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, metwork]
+
+
 
     steps:
       - name: checkout
@@ -143,9 +147,20 @@ jobs:
           scp: |
             '${LOCAL}/*' => ${REMOTE}
 
+      - name: clean cache on failure
+        if: failure()
+        run: |
+          sudo rm -f ${{ steps.BuildStep.outputs.buildcache }}
 
 
 
 
 
+
+
+      - name: chown on build outputs
+        if: always()
+        run: |
+          sudo chown -R githubactions:metworkpub .
+          sudo chmod -R 775 .
 
