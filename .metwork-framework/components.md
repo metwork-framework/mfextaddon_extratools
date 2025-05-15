@@ -57,7 +57,7 @@
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
 | [python-json-logger](https://nhairs.github.io/python-json-logger) | 3.3.0 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
-| [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.0 | python3_extratools |
+| [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.2 | python3_extratools |
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.19 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
