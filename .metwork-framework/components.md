@@ -24,7 +24,7 @@
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_extratools |
 | [ipywidgets](http://jupyter.org) | 8.1.7 | python3_extratools |
 | [isoduration](https://github.com/bolsote/isoduration) | 20.11.0 | python3_extratools |
-| [json5](https://pypi.org/project/json5) | 0.9.25 | python3_extratools |
+| [json5](https://pypi.org/project/json5) | 0.12.0 | python3_extratools |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
 | [jupyter-console](https://jupyter.org) | 6.6.3 | python3_extratools |
 | [jupyter-events](http://jupyter.org) | 0.10.0 | python3_extratools |
