@@ -60,7 +60,7 @@
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.2 | python3_extratools |
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.20 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
-| [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_extratools |
+| [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
 | [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
