@@ -35,7 +35,7 @@ jupyterlab==4.4.2
 jupyterlab-pygments==0.3.0
 jupyterlab-server==2.27.3
 linkify-it-py==2.0.3
-mdit-py-plugins==0.4.1
+mdit-py-plugins==0.4.2
 mistune==3.0.2
 nbclient==0.10.0
 nbconvert==7.16.4
