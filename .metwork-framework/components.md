@@ -51,7 +51,7 @@
 | [notebook](https://github.com/jupyter/notebook) | 7.4.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
-| [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_extratools |
+| [openpyxl](https://openpyxl.readthedocs.io) | 3.1.5 | python3_extratools |
 | [overrides](https://github.com/mkorpela/overrides) | 7.7.0 | python3_extratools |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.0 | python3_extratools |
