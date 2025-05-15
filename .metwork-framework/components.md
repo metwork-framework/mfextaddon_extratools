@@ -34,7 +34,7 @@
 | [jupyter_client](https://jupyter.org) | 8.6.3 | python3_extratools |
 | [jupyter_core](https://jupyter.org) | 5.7.2 | python3_extratools |
 | [jupyter_packaging](http://jupyter.org) | 0.12.3 | python3_extratools |
-| [jupyter_server](https://jupyter-server.readthedocs.io) | 2.14.2 | python3_extratools |
+| [jupyter_server](https://jupyter-server.readthedocs.io) | 2.16.0 | python3_extratools |
 | [jupyter_server_proxy](https://pypi.org/project/jupyter_server_proxy) | 4.4.0 | python3_extratools |
 | [jupyter_server_terminals](https://jupyter.org) | 0.5.3 | python3_extratools |
 | [jupyterlab](https://jupyter.org) | 4.2.5 | python3_extratools |
