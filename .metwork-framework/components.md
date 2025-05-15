@@ -37,7 +37,7 @@
 | [jupyter_server](https://jupyter-server.readthedocs.io) | 2.16.0 | python3_extratools |
 | [jupyter_server_proxy](https://pypi.org/project/jupyter_server_proxy) | 4.4.0 | python3_extratools |
 | [jupyter_server_terminals](https://jupyter.org) | 0.5.3 | python3_extratools |
-| [jupyterlab](https://jupyter.org) | 4.2.5 | python3_extratools |
+| [jupyterlab](https://jupyter.org) | 4.4.2 | python3_extratools |
 | [jupyterlab_pygments](https://github.com/jupyterlab/jupyterlab_pygments) | 0.3.0 | python3_extratools |
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.27.3 | python3_extratools |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
@@ -48,7 +48,7 @@
 | [nbconvert](https://jupyter.org) | 7.16.4 | python3_extratools |
 | [nbformat](https://jupyter.org) | 5.10.4 | python3_extratools |
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
-| [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
+| [notebook](https://github.com/jupyter/notebook) | 7.4.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_extratools |
