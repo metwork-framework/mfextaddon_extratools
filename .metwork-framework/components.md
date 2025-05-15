@@ -45,7 +45,7 @@
 | [mistune](https://pypi.org/project/mistune) | 3.1.3 | python3_extratools |
 | [nbclassic](https://github.com/jupyter/nbclassic) | 1.2.0 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.2 | python3_extratools |
-| [nbconvert](https://jupyter.org) | 7.16.4 | python3_extratools |
+| [nbconvert](https://jupyter.org) | 7.16.6 | python3_extratools |
 | [nbformat](https://jupyter.org) | 5.10.4 | python3_extratools |
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
 | [notebook](https://github.com/jupyter/notebook) | 7.4.2 | python3_extratools |
