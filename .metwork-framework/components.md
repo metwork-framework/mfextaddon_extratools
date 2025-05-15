@@ -27,7 +27,7 @@
 | [json5](https://pypi.org/project/json5) | 0.12.0 | python3_extratools |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
 | [jupyter-console](https://jupyter.org) | 6.6.3 | python3_extratools |
-| [jupyter-events](http://jupyter.org) | 0.10.0 | python3_extratools |
+| [jupyter-events](http://jupyter.org) | 0.12.0 | python3_extratools |
 | [jupyter-lsp](https://pypi.org/project/jupyter-lsp) | 2.2.5 | python3_extratools |
 | [jupyter](https://jupyter.org) | 1.1.1 | python3_extratools |
 | [jupyter_builder](https://jupyter.org) | 0.1.0a3 | python3_extratools |
