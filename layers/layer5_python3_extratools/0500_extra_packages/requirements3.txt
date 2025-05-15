@@ -58,7 +58,7 @@ questionary==2.1.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 Send2Trash==1.8.3
-shiny==1.0.0
+shiny==1.4.0
 simpervisor==1.0.0
 sniffio==1.2.0
 starlette==0.41.0
