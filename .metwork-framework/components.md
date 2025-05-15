@@ -54,7 +54,7 @@
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.5 | python3_extratools |
 | [overrides](https://github.com/mkorpela/overrides) | 7.7.0 | python3_extratools |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
-| [prometheus_client](https://github.com/prometheus/client_python) | 0.21.0 | python3_extratools |
+| [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.0 | python3_extratools |
