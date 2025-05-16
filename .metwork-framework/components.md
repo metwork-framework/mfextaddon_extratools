@@ -70,7 +70,7 @@
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/encode/starlette) | 0.46.2 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
-| [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.3.0 | python3_extratools |
+| [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
