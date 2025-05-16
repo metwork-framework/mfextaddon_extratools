@@ -67,7 +67,7 @@
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
-| [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
+| [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.3.0 | python3_extratools |
