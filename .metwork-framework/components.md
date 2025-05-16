@@ -80,7 +80,7 @@
 | [webcolors](https://pypi.org/project/webcolors) | 24.11.1 | python3_extratools |
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
 | [websocket-client](https://github.com/websocket-client/websocket-client.git) | 1.8.0 | python3_extratools |
-| [websockets](https://github.com/python-websockets/websockets) | 13.0.1 | python3_extratools |
+| [websockets](https://github.com/python-websockets/websockets) | 15.0.1 | python3_extratools |
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 
