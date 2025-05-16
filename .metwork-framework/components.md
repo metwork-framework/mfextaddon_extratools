@@ -74,7 +74,7 @@
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
-| [uvicorn](https://www.uvicorn.org/) | 0.17.5 | python3_extratools |
+| [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_extratools |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 0.24.0 | python3_extratools |
 | [webcolors](https://github.com/ubernostrum/webcolors) | 24.8.0 | python3_extratools |
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
