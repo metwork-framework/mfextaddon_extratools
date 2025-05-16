@@ -54,6 +54,7 @@
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.5 | python3_extratools |
 | [overrides](https://github.com/mkorpela/overrides) | 7.7.0 | python3_extratools |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
+| [pdm-backend](https://github.com/pdm-project/pdm-backend) | 2.4.4 | python3_extratools |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
 | [python-json-logger](https://nhairs.github.io/python-json-logger) | 3.3.0 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
@@ -76,11 +77,11 @@
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_extratools |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.0.5 | python3_extratools |
-| [webcolors](https://github.com/ubernostrum/webcolors) | 24.8.0 | python3_extratools |
+| [webcolors](https://pypi.org/project/webcolors) | 24.11.1 | python3_extratools |
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
 | [websocket-client](https://github.com/websocket-client/websocket-client.git) | 1.8.0 | python3_extratools |
 | [websockets](https://github.com/python-websockets/websockets) | 13.0.1 | python3_extratools |
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 
-*(82 components)*
+*(83 components)*
