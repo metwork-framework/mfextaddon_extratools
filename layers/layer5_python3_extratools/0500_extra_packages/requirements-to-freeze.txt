@@ -9,4 +9,10 @@ jupyter-console
 python-pptx
 Aspose.Slides
 #requirements required in other layers
-#pyzmq #python3_circus
+#anyio mfadmin (ldap)
+#asgiref mfadmin (ldap)
+#h11 mfadmin (ldap)
+#python-multipart mfadmin (ldap)
+#sniffio mfadmin (ldap)
+#starlette mfadmin (ldap)
+#uvicorn mfadmin (ldap)

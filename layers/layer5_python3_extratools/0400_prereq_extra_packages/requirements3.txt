@@ -4,4 +4,4 @@ jupyter-client==8.6.3
 jupyter-core==5.7.2
 jupyter-packaging==0.12.3
 pdm-backend==2.4.4
-pyzmq==25.1.1
+pyzmq==26.4.0
