@@ -65,7 +65,6 @@
 | [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
-| [scikit_build_core](https://github.com/scikit-build/scikit-build-core) | 0.11.1 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
@@ -85,4 +84,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 
-*(84 components)*
+*(83 components)*
