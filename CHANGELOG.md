@@ -23,5 +23,8 @@
 - bump python-multipart from 0.0.19 to 0.0.20 (#23)
 - bump shiny from 1.0.0 to 1.4.0 (#24)
 - revert "bump pyzmq from 25.1.1 to 26.4.0" (#26)
+- bump sniffio from 1.2.0 to 1.3.1
+- bump starlette from 0.41.0 to 0.46.2
+- bump starlette from 0.41.0 to 0.46.2
 
 
