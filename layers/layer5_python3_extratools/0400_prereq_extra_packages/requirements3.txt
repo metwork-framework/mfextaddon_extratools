@@ -3,5 +3,4 @@ jupyter-builder==0.1.0a3
 jupyter-client==8.6.3
 jupyter-core==5.7.2
 jupyter-packaging==0.12.3
-pdm-backend==2.4.4
 pyzmq==26.4.0
