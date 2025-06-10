@@ -35,6 +35,7 @@ import jupyter_server_terminals
 import jupyterlab
 import jupyterlab_pygments
 import jupyterlab_server
+import jupyterlab_widgets
 import linkify_it
 import mdit_py_plugins
 import mistune
