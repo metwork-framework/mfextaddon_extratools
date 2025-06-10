@@ -1,6 +1,7 @@
 | Name | Version | Layer |
 | --- | --- | --- |
 | [anyio](https://pypi.org/project/anyio) | 4.9.0 | python3_extratools |
+| [appdirs](http://github.com/ActiveState/appdirs) | 1.4.4 | python3_extratools |
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [asgiref](https://github.com/django/asgiref/) | 3.8.1 | python3_extratools |
@@ -84,4 +85,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.3 | python3_extratools |
 
-*(83 components)*
+*(84 components)*
