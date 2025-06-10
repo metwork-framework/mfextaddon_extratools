@@ -40,6 +40,7 @@
 | [jupyterlab](https://jupyter.org) | 4.4.2 | python3_extratools |
 | [jupyterlab_pygments](https://github.com/jupyterlab/jupyterlab_pygments) | 0.3.0 | python3_extratools |
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.27.3 | python3_extratools |
+| [jupyterlab_widgets](https://github.com/jupyter-widgets/ipywidgets) | 3.0.15 | python3_extratools |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.2 | python3_extratools |
 | [mistune](https://pypi.org/project/mistune) | 3.1.3 | python3_extratools |
@@ -83,4 +84,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.3 | python3_extratools |
 
-*(82 components)*
+*(83 components)*
