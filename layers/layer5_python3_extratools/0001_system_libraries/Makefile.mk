@@ -9,4 +9,5 @@ $(shell mkdir $(PREFIX)/lib)
 all:: $(PREFIX)/lib/liblttng-ust.so.0
 $(PREFIX)/lib/liblttng-ust.so.0:
 	for lib in $(LIB_LIST); do cp -r $$lib $(PREFIX)/lib; done
+	ln -s $(PREFIX)/../core/lib/libpcre.so.1 $(PREFIX)/lib/libpcre.so.1
 endif
