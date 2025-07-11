@@ -39,7 +39,8 @@ jobs:
     steps:
       - name: clean
         run: |
-          rm -rf ${{ github.workspace }}/mfextaddon_radartools
+          rm -rf ${{ github.workspace }}
+          mkdir ${{ github.workspace }}
       - name: checkout
         uses: actions/checkout@v4
         with:
