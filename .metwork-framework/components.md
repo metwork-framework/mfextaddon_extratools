@@ -11,6 +11,7 @@
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
+| [download](https://github.com/choldgraf/download) | 0.3.5 | python3_extratools |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 2.0.0 | python3_extratools |
 | [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.21.1 | python3_extratools |
@@ -56,13 +57,16 @@
 | [overrides](https://github.com/mkorpela/overrides) | 7.7.0 | python3_extratools |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
+| [PyPDF2](https://pypi.org/project/PyPDF2) | 3.0.1 | python3_extratools |
 | [python-json-logger](https://nhairs.github.io/python-json-logger) | 3.3.0 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.2 | python3_extratools |
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.20 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
+| [pyxml2pdf](https://github.com/BjoernLudwigPTB/pyxml2pdf) | 0.3.4 | python3_extratools |
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_extratools |
 | [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
+| [reportlab](https://www.reportlab.com/) | 4.4.0 | python3_extratools |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
@@ -84,4 +88,8 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.3 | python3_extratools |
 
+<<<<<<< HEAD
 *(83 components)*
+=======
+*(88 components)*
+>>>>>>> bb1bb01 (feat: add pyxml2pdf and dependencies (GLPI 368072) (#52))
