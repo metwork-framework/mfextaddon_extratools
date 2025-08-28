@@ -88,8 +88,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.3 | python3_extratools |
 
-<<<<<<< HEAD
-*(83 components)*
-=======
-*(88 components)*
->>>>>>> bb1bb01 (feat: add pyxml2pdf and dependencies (GLPI 368072) (#52))
+*(87 components)*
