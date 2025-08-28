@@ -8,11 +8,8 @@ notebook>=7
 jupyter-console
 python-pptx
 Aspose.Slides
-<<<<<<< HEAD
-=======
 pyxml2pdf
 reportlab
->>>>>>> bdbb465 (feat: bump xlsxwriter from 3.2.3 (yanked) to 3.2.5 (#54))
 #requirements required in other layers
 #anyio mfadmin (ldap)
 #asgiref mfadmin (ldap)
