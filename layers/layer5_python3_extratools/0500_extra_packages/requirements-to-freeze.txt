@@ -8,6 +8,7 @@ notebook>=7
 jupyter-console
 python-pptx
 Aspose.Slides
+pyxml2pdf
 #requirements required in other layers
 #anyio mfadmin (ldap)
 #asgiref mfadmin (ldap)
