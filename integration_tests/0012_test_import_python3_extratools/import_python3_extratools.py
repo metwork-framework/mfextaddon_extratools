@@ -5,6 +5,7 @@ import bleach
 import comm
 import debugpy
 import docstring_to_markdown
+import download
 import et_xmlfile
 import faicons
 import fastjsonschema
@@ -52,11 +53,14 @@ import overrides
 import pandocfilters
 import pptx #python-pptx
 import prometheus_client
+import PyPDF2
 import pythonjsonlogger
 import pylsp_jsonrpc #python_lsp_jsonrpc
 import pylsp #python_lsp_server
+import pyxml2pdf
 import zmq #pyzmq
 import questionary
+import reportlab
 import rfc3339_validator
 import rfc3986_validator
 import send2trash
