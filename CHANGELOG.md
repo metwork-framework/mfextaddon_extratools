@@ -9,5 +9,6 @@
 - add pyxml2pdf and dependencies (GLPI 368072) (#52)
 - bump xlsxwriter from 3.2.3 (yanked) to 3.2.5 (#54)
 - bump starlette from 0.46.2 to 0.47.3 (moderate CVE-2025-54121) (#56)
+- bump jupyterlab from 4.4.2 to 4.4.9 (fix CVE-2025-59842) (#58)
 
 
