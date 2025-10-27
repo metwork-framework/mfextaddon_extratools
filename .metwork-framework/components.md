@@ -1,7 +1,6 @@
 | Name | Version | Layer |
 | --- | --- | --- |
 | [anyio](https://pypi.org/project/anyio) | 4.9.0 | python3_extratools |
-| [appdirs](http://github.com/ActiveState/appdirs) | 1.4.4 | python3_extratools |
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [asgiref](https://github.com/django/asgiref/) | 3.8.1 | python3_extratools |
@@ -71,7 +70,7 @@
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
-| [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
+| [shiny](https://github.com/posit-dev/py-shiny) | 1.5.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/encode/starlette) | 0.47.3 | python3_extratools |
@@ -89,4 +88,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(88 components)*
+*(87 components)*
