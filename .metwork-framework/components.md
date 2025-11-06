@@ -45,6 +45,7 @@
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.2 | python3_extratools |
 | [mistune](https://pypi.org/project/mistune) | 3.1.3 | python3_extratools |
+| [narwhals](https://github.com/narwhals-dev/narwhals) | 1.37.0 | python3_extratools |
 | [nbclassic](https://github.com/jupyter/nbclassic) | 1.3.1 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.2 | python3_extratools |
 | [nbconvert](https://jupyter.org) | 7.16.6 | python3_extratools |
@@ -73,7 +74,7 @@
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
-| [starlette](https://github.com/encode/starlette) | 0.46.2 | python3_extratools |
+| [starlette](https://github.com/Kludex/starlette) | 0.49.1 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
@@ -88,4 +89,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(87 components)*
+*(88 components)*
