@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump starlette from 0.47.3 to 0.49.1 (fix CVE-2025-62727) (backport #60) (#61)
+
 ## v2.3.2 (2025-08-28)
 
 ### New Features
