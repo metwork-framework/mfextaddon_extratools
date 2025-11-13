@@ -53,7 +53,7 @@ import overrides
 import pandocfilters
 import pptx #python-pptx
 import prometheus_client
-import PyPDF2
+import pypdf
 import pythonjsonlogger
 import pylsp_jsonrpc #python_lsp_jsonrpc
 import pylsp #python_lsp_server
