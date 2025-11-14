@@ -12,5 +12,6 @@
 - bump jupyterlab from 4.4.2 to 4.4.9 (fix CVE-2025-59842) (#58)
 - upgrade shiny from 1.4.0 to 1.5.0 and remove obsolete dependency appdirs (#59)
 - bump starlette from 0.47.3 to 0.49.1 (fix CVE-2025-62727) (#60)
+- upgrade pyxml2pdf to replace PyPDF2 by pydf (fix CVE-2023-36464) (#62)
 
 
