@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## v2.3.4 (2025-11-14)
+
+### New Features
+
+- upgrade pyxml2pdf to replace PyPDF2 by pydf (fix CVE-2023-36464) (#62)
+
 ## v2.3.3 (2025-11-07)
 
 ### New Features
