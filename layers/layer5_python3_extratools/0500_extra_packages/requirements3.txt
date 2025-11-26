@@ -63,12 +63,7 @@ questionary==2.1.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 Send2Trash==1.8.3
-<<<<<<< HEAD
 shiny==1.4.0
-=======
-shiny==1.5.0
-shinychat==0.2.8
->>>>>>> 7103b4c (feat: bump pypdf from 6.2.0 to 6.4.0 (fix GHSA-m449-cwjh-6pw7) (#66))
 simpervisor==1.0.0
 sniffio==1.3.1
 starlette==0.49.1
