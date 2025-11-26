@@ -71,12 +71,7 @@
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
-<<<<<<< HEAD
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
-=======
-| [shiny](https://github.com/posit-dev/py-shiny) | 1.5.0 | python3_extratools |
-| [shinychat](https://posit-dev.github.io/shinychat/) | 0.2.8 | python3_extratools |
->>>>>>> 7103b4c (feat: bump pypdf from 6.2.0 to 6.4.0 (fix GHSA-m449-cwjh-6pw7) (#66))
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/Kludex/starlette) | 0.49.1 | python3_extratools |
@@ -94,4 +89,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(89 components)*
+*(88 components)*
