@@ -58,7 +58,7 @@
 | [overrides](https://github.com/mkorpela/overrides) | 7.7.0 | python3_extratools |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
-| [pypdf](https://pypi.org/project/pypdf) | 6.2.0 | python3_extratools |
+| [pypdf](https://pypi.org/project/pypdf) | 6.4.0 | python3_extratools |
 | [python-json-logger](https://nhairs.github.io/python-json-logger) | 3.3.0 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.2 | python3_extratools |
@@ -72,6 +72,7 @@
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.5.0 | python3_extratools |
+| [shinychat](https://posit-dev.github.io/shinychat/) | 0.2.8 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/Kludex/starlette) | 0.49.1 | python3_extratools |
@@ -89,4 +90,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(88 components)*
+*(89 components)*
