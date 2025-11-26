@@ -66,6 +66,7 @@ import rfc3339_validator
 import rfc3986_validator
 import send2trash
 import shiny
+import shinychat
 import sniffio
 import starlette
 import simpervisor
