@@ -82,7 +82,7 @@
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_extratools |
-| [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.0.5 | python3_extratools |
+| [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.1.1 | python3_extratools |
 | [webcolors](https://pypi.org/project/webcolors) | 24.11.1 | python3_extratools |
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
 | [websocket-client](https://github.com/websocket-client/websocket-client.git) | 1.8.0 | python3_extratools |
