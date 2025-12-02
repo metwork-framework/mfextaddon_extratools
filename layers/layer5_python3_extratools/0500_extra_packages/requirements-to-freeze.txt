@@ -7,7 +7,7 @@ jupyter
 notebook>=7
 jupyter-console
 python-pptx
-Aspose.Slides
+#Aspose.Slides 25.11.0 is not Python 3.14 compliant
 pyxml2pdf
 reportlab
 #requirements required in other layers

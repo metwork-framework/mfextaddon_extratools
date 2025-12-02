@@ -81,4 +81,4 @@ import websocket #websocket-client
 import websockets
 import widgetsnbextension
 import xlsxwriter
-import aspose.slides
+#import aspose.slides not Python3.14 compliant for the time being
