@@ -14,5 +14,6 @@
 - bump starlette from 0.47.3 to 0.49.1 (fix CVE-2025-62727) (#60)
 - upgrade pyxml2pdf to replace PyPDF2 by pydf (fix CVE-2023-36464) (#62)
 - bump pypdf from 6.2.0 to 6.4.0 (fix GHSA-m449-cwjh-6pw7) (#66)
+- bump watchfiles to 1.1.1 (Python 3.14 compatibility) (#68)
 
 
