@@ -15,5 +15,6 @@
 - upgrade pyxml2pdf to replace PyPDF2 by pydf (fix CVE-2023-36464) (#62)
 - bump pypdf from 6.2.0 to 6.4.0 (fix GHSA-m449-cwjh-6pw7) (#66)
 - bump watchfiles to 1.1.1 (Python 3.14 compatibility) (#68)
+- bump Aspose.Slides from 25.5.0 to 25.12.0 (#71)
 
 
