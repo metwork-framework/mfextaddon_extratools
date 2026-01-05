@@ -66,7 +66,7 @@
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pyxml2pdf](https://github.com/BjoernLudwigPTB/pyxml2pdf) | 0.3.5 | python3_extratools |
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_extratools |
-| [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
+| [questionary](https://pypi.org/project/questionary) | 2.1.1 | python3_extratools |
 | [reportlab](https://www.reportlab.com/) | 4.4.0 | python3_extratools |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
