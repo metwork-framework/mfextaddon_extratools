@@ -71,7 +71,7 @@
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
-| [shiny](https://github.com/posit-dev/py-shiny) | 1.5.0 | python3_extratools |
+| [shiny](https://github.com/posit-dev/py-shiny) | 1.5.1 | python3_extratools |
 | [shinychat](https://posit-dev.github.io/shinychat/) | 0.2.8 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
