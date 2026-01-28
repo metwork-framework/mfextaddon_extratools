@@ -5,6 +5,7 @@
 ### New Features
 
 - bump pypdf from 6.2.0 to 6.4.0 (fix GHSA-m449-cwjh-6pw7) (#66)
+- bump python-multipart to 0.0.22 (fix high CVE-2026-24486) (#76)
 
 ## v2.3.4 (2025-11-14)
 
