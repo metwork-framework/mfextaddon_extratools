@@ -19,5 +19,6 @@
 - bump questionary from 2.1.0 to 2.1.1 (#72)
 - bump pypdf from 6.4.0 to 6.6.0 (fix 2 low CVE) (#73)
 - bump shiny from 1.5.0 to 1.5.1 (#74)
+- bump python-multipart to 0.0.22 (fix high CVE-2026-24486) (#76)
 
 
