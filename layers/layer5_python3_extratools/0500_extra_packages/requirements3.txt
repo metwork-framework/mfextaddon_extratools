@@ -51,7 +51,7 @@ openpyxl==3.1.5
 overrides==7.7.0
 pandocfilters==1.5.1
 prometheus-client==0.21.1
-pypdf==6.6.0
+pypdf==6.6.2
 python-json-logger==3.3.0
 python-lsp-jsonrpc==1.1.2
 python-lsp-server==1.12.2
