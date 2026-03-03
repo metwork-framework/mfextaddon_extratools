@@ -22,5 +22,6 @@
 - bump python-multipart to 0.0.22 (fix high CVE-2026-24486) (#76)
 - bump nbconvert from 7.16.6 to 7.17.0 (fix high CVE-2025-53000) (#78)
 - bump pypdf from 6.6.0 to 6.6.2 (fix moderate CVE-2026-24688) (#80)
+- bump pypdf from 6.6.2 to 6.7.5 (fix several CVEs) (#82)
 
 
