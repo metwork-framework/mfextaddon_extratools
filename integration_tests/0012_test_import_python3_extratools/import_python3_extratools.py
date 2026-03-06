@@ -3,6 +3,7 @@ import asgiref
 import async_lru
 import bleach
 import comm
+import cssselect2
 import debugpy
 import docstring_to_markdown
 import download
@@ -10,6 +11,7 @@ import et_xmlfile
 import faicons
 import fastjsonschema
 import fqdn
+import freetype #freetype_py
 import h11
 import hatch_jupyter_builder
 import htmltools
@@ -51,24 +53,27 @@ import odswriter
 import openpyxl
 import overrides
 import pandocfilters
-import pptx #python-pptx
 import prometheus_client
+import cairo #pycairo
 import pypdf
 import pythonjsonlogger
 import pylsp_jsonrpc #python_lsp_jsonrpc
 import pylsp #python_lsp_server
+import pptx #python-pptx
 import pyxml2pdf
 import zmq #pyzmq
 import questionary
 import reportlab
 import rfc3339_validator
 import rfc3986_validator
+import rlPyCairo
 import send2trash
 import shiny
 import shinychat
 import sniffio
 import starlette
 import simpervisor
+import svglib
 import terminado
 import tinycss2
 import uc_micro #uc_micro_py
