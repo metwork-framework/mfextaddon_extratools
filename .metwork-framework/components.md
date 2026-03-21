@@ -78,7 +78,7 @@
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
-| [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
+| [ujson](https://github.com/ultrajson/ultrajson) | 5.12.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_extratools |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.0.5 | python3_extratools |
