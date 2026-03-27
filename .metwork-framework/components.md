@@ -63,7 +63,7 @@
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
 | [pycairo](https://pycairo.readthedocs.io) | 1.29.0 | python3_extratools |
-| [pypdf](https://pypi.org/project/pypdf) | 6.9.1 | python3_extratools |
+| [pypdf](https://pypi.org/project/pypdf) | 6.9.2 | python3_extratools |
 | [python-json-logger](https://nhairs.github.io/python-json-logger) | 3.3.0 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.2 | python3_extratools |
