@@ -5,6 +5,8 @@ asgiref==3.8.1
 Aspose.Slides==25.12.0
 async-lru==2.0.5
 bleach==6.2.0
+cairocffi==1.7.1
+cairosvg==2.9.0
 comm==0.2.2
 cssselect2==0.9.0
 debugpy==1.8.14

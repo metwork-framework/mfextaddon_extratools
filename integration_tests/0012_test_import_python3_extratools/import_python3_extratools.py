@@ -2,6 +2,8 @@ import anyio
 import asgiref
 import async_lru
 import bleach
+import cairocffi
+import cairosvg
 import comm
 import cssselect2
 import debugpy
