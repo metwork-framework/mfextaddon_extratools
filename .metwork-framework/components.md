@@ -12,7 +12,6 @@
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
-| [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [download](https://github.com/choldgraf/download) | 0.3.5 | python3_extratools |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 2.0.0 | python3_extratools |
@@ -97,4 +96,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(96 components)*
+*(95 components)*
