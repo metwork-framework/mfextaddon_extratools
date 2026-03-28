@@ -26,5 +26,7 @@
 - add svglib and dependencies and upgrade reportlab to 4.4.10 (#83)
 - bump pypdf from 6.7.5 to 6.9.1 (fix moderate CVEs) (#86)
 - bump ujson to 5.12.0 (fix high CVE-2026-32874 and 32875) (#87)
+- add CairoSVG (2.9.0) and dependency cairocffi (1.7.1) (#90)
+- bump pypdf rom 6.9.1 to 6.9.2 (fix moderate CVE-2026-33699) (#91)
 
 
