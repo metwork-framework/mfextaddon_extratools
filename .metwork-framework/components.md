@@ -11,6 +11,7 @@
 | [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.0 | python3_extratools |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
+| [datagouv_client](https://pypi.org/project/datagouv_client) | 0.2.3 | python3_extratools |
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [download](https://github.com/choldgraf/download) | 0.3.5 | python3_extratools |
@@ -82,6 +83,7 @@
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/Kludex/starlette) | 0.49.1 | python3_extratools |
 | [svglib](https://github.com/deeplook/svglib) | 1.6.0 | python3_extratools |
+| [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
@@ -96,4 +98,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(95 components)*
+*(97 components)*
