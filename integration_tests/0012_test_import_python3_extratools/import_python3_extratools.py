@@ -4,11 +4,7 @@ import aspose.slides
 import async_lru
 import bleach
 import comm
-<<<<<<< HEAD
-=======
-import cssselect2
 import datagouv
->>>>>>> 01f378a (feat: add package datagouv_client (#93))
 import debugpy
 import docstring_to_markdown
 import download
