@@ -4,6 +4,7 @@ import aspose.slides
 import async_lru
 import bleach
 import comm
+import datagouv
 import debugpy
 import docstring_to_markdown
 import download
