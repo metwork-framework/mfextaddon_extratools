@@ -5,6 +5,7 @@
 ### New Features
 
 - bump ujson to 5.12.0 (fix high CVE-2026-32874 and 32875) (backport #87) (#88)
+- add package datagouv_client (backport #93) (#94)
 
 ## v2.3.5 (2026-01-31)
 
