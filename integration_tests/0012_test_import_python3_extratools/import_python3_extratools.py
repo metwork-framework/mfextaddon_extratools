@@ -1,4 +1,3 @@
-import anyio
 import asgiref
 import async_lru
 import bleach
@@ -15,11 +14,8 @@ import faicons
 import fastjsonschema
 import fqdn
 import freetype #freetype_py
-import h11
 import hatch_jupyter_builder
 import htmltools
-import httpcore
-import httpx
 import ipykernel
 import IPython
 import ipywidgets
@@ -73,7 +69,6 @@ import rlPyCairo
 import send2trash
 import shiny
 import shinychat
-import sniffio
 import starlette
 import simpervisor
 import svglib
