@@ -77,6 +77,7 @@ import sniffio
 import starlette
 import simpervisor
 import svglib
+import tenacity
 import terminado
 import tinycss2
 import uc_micro #uc_micro_py
