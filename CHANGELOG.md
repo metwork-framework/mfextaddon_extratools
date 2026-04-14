@@ -29,5 +29,6 @@
 - add CairoSVG (2.9.0) and dependency cairocffi (1.7.1) (#90)
 - bump pypdf rom 6.9.1 to 6.9.2 (fix moderate CVE-2026-33699) (#91)
 - add package datagouv_client (#93)
+- remove httpx and dependencies (now provided by layer python3) (#99)
 
 
