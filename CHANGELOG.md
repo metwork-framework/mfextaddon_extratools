@@ -30,5 +30,6 @@
 - bump pypdf rom 6.9.1 to 6.9.2 (fix moderate CVE-2026-33699) (#91)
 - add package datagouv_client (#93)
 - remove httpx and dependencies (now provided by layer python3) (#99)
+- bump pypdf from 6.9.2 to 6.10.1 (fix moderate CVE-2026-40260) (#100)
 
 
