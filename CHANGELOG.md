@@ -31,5 +31,6 @@
 - add package datagouv_client (#93)
 - remove httpx and dependencies (now provided by layer python3) (#99)
 - bump pypdf from 6.9.2 to 6.10.1 (fix moderate CVE-2026-40260) (#100)
+- bump python-multipart to 0.0.26 (fix moderate CVE-2026-40347)
 
 
