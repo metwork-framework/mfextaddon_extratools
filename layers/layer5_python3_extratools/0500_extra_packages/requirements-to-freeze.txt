@@ -11,6 +11,8 @@ Aspose.Slides
 pyxml2pdf
 reportlab
 datagouv_client
+jupyter-client
+nbclassic
 #requirements required in other layers
 #anyio mfadmin (ldap)
 #asgiref mfadmin (ldap)

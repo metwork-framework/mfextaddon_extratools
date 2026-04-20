@@ -19,7 +19,6 @@
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.21.1 | python3_extratools |
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
 | [freetype-py](https://github.com/rougier/freetype-py) | 2.5.1 | python3_extratools |
-| [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [htmltools](https://pypi.org/project/htmltools) | 0.6.0 | python3_extratools |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_extratools |
@@ -31,10 +30,8 @@
 | [jupyter-events](http://jupyter.org) | 0.12.0 | python3_extratools |
 | [jupyter-lsp](https://pypi.org/project/jupyter-lsp) | 2.2.5 | python3_extratools |
 | [jupyter](https://jupyter.org) | 1.1.1 | python3_extratools |
-| [jupyter_builder](https://jupyter.org) | 0.1.0a3 | python3_extratools |
 | [jupyter_client](https://jupyter.org) | 8.6.3 | python3_extratools |
 | [jupyter_core](https://jupyter.org) | 5.7.2 | python3_extratools |
-| [jupyter_packaging](http://jupyter.org) | 0.12.3 | python3_extratools |
 | [jupyter_server](https://jupyter-server.readthedocs.io) | 2.16.0 | python3_extratools |
 | [jupyter_server_proxy](https://pypi.org/project/jupyter_server_proxy) | 4.4.0 | python3_extratools |
 | [jupyter_server_terminals](https://jupyter.org) | 0.5.3 | python3_extratools |
@@ -93,4 +90,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(92 components)*
+*(89 components)*
