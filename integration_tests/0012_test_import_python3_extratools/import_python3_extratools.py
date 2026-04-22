@@ -14,7 +14,6 @@ import faicons
 import fastjsonschema
 import fqdn
 import freetype #freetype_py
-import hatch_jupyter_builder
 import htmltools
 import ipykernel
 import IPython
@@ -23,13 +22,11 @@ import isoduration
 import json5
 import jsonpointer
 import jupyter
-import jupyter_builder
 import jupyter_client
 import jupyter_console
 import jupyter_core
 import jupyter_events
 import jupyter_lsp
-import jupyter_packaging
 import jupyter_server
 import jupyter_server_proxy
 import jupyter_server_terminals
