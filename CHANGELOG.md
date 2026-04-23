@@ -32,5 +32,8 @@
 - remove httpx and dependencies (now provided by layer python3) (#99)
 - bump pypdf from 6.9.2 to 6.10.1 (fix moderate CVE-2026-40260) (#100)
 - bump python-multipart to 0.0.26 (fix moderate CVE-2026-40347)
+- remove python build dependencies (we are building isolate now) (#104)
+- bump pypdf from 6.10.1 to 6.10.2 (fix moderate CWE-789/834) (#105)
+- bump nbconvert to 7.17.1 (fix moderate CVE-2026-39377/39378) (#106)
 
 
