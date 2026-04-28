@@ -1,8 +1,11 @@
-import anyio
 import asgiref
 import async_lru
 import bleach
+import cairocffi
+import cairosvg
 import comm
+import cssselect2
+import datagouv
 import debugpy
 import docstring_to_markdown
 import download
@@ -10,11 +13,8 @@ import et_xmlfile
 import faicons
 import fastjsonschema
 import fqdn
-import h11
-import hatch_jupyter_builder
+import freetype #freetype_py
 import htmltools
-import httpcore
-import httpx
 import ipykernel
 import IPython
 import ipywidgets
@@ -22,13 +22,11 @@ import isoduration
 import json5
 import jsonpointer
 import jupyter
-import jupyter_builder
 import jupyter_client
 import jupyter_console
 import jupyter_core
 import jupyter_events
 import jupyter_lsp
-import jupyter_packaging
 import jupyter_server
 import jupyter_server_proxy
 import jupyter_server_terminals
@@ -51,23 +49,27 @@ import odswriter
 import openpyxl
 import overrides
 import pandocfilters
-import pptx #python-pptx
 import prometheus_client
+import cairo #pycairo
 import pypdf
 import pythonjsonlogger
 import pylsp_jsonrpc #python_lsp_jsonrpc
 import pylsp #python_lsp_server
+import pptx #python-pptx
 import pyxml2pdf
 import zmq #pyzmq
 import questionary
 import reportlab
 import rfc3339_validator
 import rfc3986_validator
+import rlPyCairo
 import send2trash
 import shiny
-import sniffio
+import shinychat
 import starlette
 import simpervisor
+import svglib
+import tenacity
 import terminado
 import tinycss2
 import uc_micro #uc_micro_py

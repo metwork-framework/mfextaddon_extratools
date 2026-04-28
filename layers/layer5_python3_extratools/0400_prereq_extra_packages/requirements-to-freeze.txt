@@ -1,6 +1,0 @@
-jupyter-builder
-hatch-jupyter-builder
-jupyter-client
-jupyter-packaging
-#requirements required in other layers
-#pyzmq #python3_circus
