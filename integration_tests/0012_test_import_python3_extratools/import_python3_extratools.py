@@ -5,7 +5,6 @@ import cairocffi
 import cairosvg
 import comm
 import cssselect2
-import datagouv
 import debugpy
 import docstring_to_markdown
 import download
