@@ -33,9 +33,13 @@ jupyter-lsp==2.2.5
 jupyter-server==2.16.0
 jupyter-server-proxy==4.4.0
 jupyter-server-terminals==0.5.3
+<<<<<<< HEAD
 jupyterlab==4.4.2
+=======
+jupyterlab==4.5.7
+>>>>>>> 795a711 (feat: bump jupyterlab to 4.5.7 and notebook to 7.5.6 (fix high CVE-2026-40171))
 jupyterlab-pygments==0.3.0
-jupyterlab-server==2.27.3
+jupyterlab-server==2.28.0
 jupyterlab_widgets==3.0.15
 linkify-it-py==2.0.3
 mdit-py-plugins==0.4.2
@@ -45,7 +49,7 @@ nbclient==0.10.2
 nbconvert==7.17.0
 nbformat==5.10.4
 nest-asyncio==1.6.0
-notebook==7.4.2
+notebook==7.5.6
 notebook-shim==0.2.4
 odswriter==0.4.0
 openpyxl==3.1.5
