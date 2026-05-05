@@ -35,5 +35,6 @@
 - remove python build dependencies (we are building isolate now) (#104)
 - bump pypdf from 6.10.1 to 6.10.2 (fix moderate CWE-789/834) (#105)
 - bump nbconvert to 7.17.1 (fix moderate CVE-2026-39377/39378) (#106)
+- bump jupyterlab to 4.5.7 and notebook to 7.5.6 (fix high CVE-2026-40171)
 
 
