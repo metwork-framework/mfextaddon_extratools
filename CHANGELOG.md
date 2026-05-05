@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump jupyterlab to 4.5.7 and notebook to 7.5.6 (fix high CVE-2026-40171)
+
 ## v2.3.6 (2026-04-08)
 
 ### New Features
