@@ -38,5 +38,7 @@
 - bump jupyterlab to 4.5.7 and notebook to 7.5.6 (fix high CVE-2026-40171)
 - bump jupyter_server from 2.16.0 to 2.18.2 (fix high CVEs)
 - bump mistune from 3.1.3 to 3.2.1 (fix high CVE) (#118)
+- bump python-multipart to 0.0.29 (fix high CVE-2026-42561) (#120)
+- bump ujson from 5.12.0 to 5.12.1 (fix high CVE-2026-44660) (#122)
 
 
