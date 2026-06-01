@@ -10,7 +10,7 @@
 | [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.0 | python3_extratools |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
-| [datagouv_client](https://pypi.org/project/datagouv_client) | 0.2.3 | python3_extratools |
+| [datagouv_client](https://pypi.org/project/datagouv_client) | 0.3.2 | python3_extratools |
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [download](https://github.com/choldgraf/download) | 0.3.5 | python3_extratools |
