@@ -7,6 +7,7 @@ cairocffi==1.7.1
 cairosvg==2.9.0
 comm==0.2.2
 cssselect2==0.9.0
+datagouv_client==0.3.2
 debugpy==1.8.14
 docstring-to-markdown==0.17
 download==0.3.5
