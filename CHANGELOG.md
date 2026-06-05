@@ -41,5 +41,6 @@
 - bump python-multipart to 0.0.29 (fix high CVE-2026-42561) (#120)
 - bump ujson from 5.12.0 to 5.12.1 (fix high CVE-2026-44660) (#122)
 - bump datagouv_client to 0.3.2 (compatibility Python 3.14) (#124)
+- bump aspose_slides from 25.12.0 to 26.5.0 (#125)
 
 
