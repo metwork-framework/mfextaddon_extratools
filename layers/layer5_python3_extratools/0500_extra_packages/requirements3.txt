@@ -17,7 +17,7 @@ faicons==0.2.2
 fastjsonschema==2.21.1
 fqdn==1.5.1
 freetype_py==2.5.1
-htmltools==0.6.0
+htmltools==0.7.0
 ipykernel==6.29.5
 ipython-genutils==0.2.0
 ipywidgets==8.1.7
@@ -50,6 +50,7 @@ notebook==7.5.6
 notebook-shim==0.2.4
 odswriter==0.4.0
 openpyxl==3.1.5
+opentelemetry_api==1.42.1
 overrides==7.7.0
 pandocfilters==1.5.1
 prometheus-client==0.21.1
@@ -68,8 +69,8 @@ questionary==2.1.1
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 Send2Trash==1.8.3
-shiny==1.5.1
-shinychat==0.2.8
+shiny==1.6.3
+shinychat==0.4.0
 simpervisor==1.0.0
 starlette==1.2.1
 svglib==1.6.0
