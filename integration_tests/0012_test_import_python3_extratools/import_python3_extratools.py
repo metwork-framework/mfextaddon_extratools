@@ -47,6 +47,7 @@ import notebook
 import notebook_shim
 import odswriter
 import openpyxl
+import opentelemetry
 import overrides
 import pandocfilters
 import prometheus_client
