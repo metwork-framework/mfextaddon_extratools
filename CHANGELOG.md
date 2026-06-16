@@ -44,5 +44,6 @@
 - bump aspose_slides from 25.12.0 to 26.5.0 (#125)
 - bump starlette from 0.49.1 to 1.2.1 (fix moderate CVE-2026-48710) (#127)
 - bump shiny from 1.5.1 to 1.6.3 (#128)
+- bump pypdf from 6.10.2 to 6.13.2 (fix moderate CVE-2026-48155/6) (#130)
 
 
