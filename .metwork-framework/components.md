@@ -74,13 +74,8 @@
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
-<<<<<<< HEAD
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
-| [starlette](https://github.com/Kludex/starlette) | 0.49.1 | python3_extratools |
-=======
 | [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_extratools |
-| [svglib](https://github.com/deeplook/svglib) | 1.6.0 | python3_extratools |
->>>>>>> b494408 (feat: bump starlette from 1.2.1 to 1.3.1 (fix high CVE-2026-54283) (#138))
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
