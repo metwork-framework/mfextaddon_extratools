@@ -74,7 +74,7 @@
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.6.3 | python3_extratools |
 | [shinychat](https://posit-dev.github.io/shinychat/) | 0.4.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
-| [starlette](https://github.com/Kludex/starlette) | 1.2.1 | python3_extratools |
+| [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_extratools |
 | [svglib](https://github.com/deeplook/svglib) | 1.6.0 | python3_extratools |
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
