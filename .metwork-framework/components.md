@@ -75,7 +75,7 @@
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.4.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
-| [starlette](https://github.com/Kludex/starlette) | 0.49.1 | python3_extratools |
+| [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_extratools |
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
