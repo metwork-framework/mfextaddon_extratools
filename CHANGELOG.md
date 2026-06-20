@@ -9,6 +9,8 @@
 - bump mistune from 3.1.3 to 3.2.1 (fix high CVE) (backport #118) (#119)
 - bump python-multipart to 0.0.29 (fix high CVE-2026-42561) (#120)
 - bump ujson from 5.12.0 to 5.12.1 (fix high CVE-2026-44660) (backport #122) (#123)
+- bump python-multipart from 0.0.29 to 0.0.30 (fix high CVE-2026-53539) (#136)
+- bump starlette from 1.2.1 to 1.3.1 (fix high CVE-2026-54283) (backport #138) (#139)
 
 ## v2.3.6 (2026-04-08)
 
