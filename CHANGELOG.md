@@ -45,5 +45,7 @@
 - bump starlette from 0.49.1 to 1.2.1 (fix moderate CVE-2026-48710) (#127)
 - bump shiny from 1.5.1 to 1.6.3 (#128)
 - bump pypdf from 6.10.2 to 6.13.2 (fix moderate CVE-2026-48155/6) (#130)
+- bump python-multipart from 0.0.29 to 0.0.30 (fix high CVE-2026-53539) (#136)
+- bump starlette from 1.2.1 to 1.3.1 (fix high CVE-2026-54283) (#138)
 
 
