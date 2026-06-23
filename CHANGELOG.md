@@ -47,5 +47,11 @@
 - bump pypdf from 6.10.2 to 6.13.2 (fix moderate CVE-2026-48155/6) (#130)
 - bump python-multipart from 0.0.29 to 0.0.30 (fix high CVE-2026-53539) (#136)
 - bump starlette from 1.2.1 to 1.3.1 (fix high CVE-2026-54283) (#138)
+- bump bleach from 6.2.0 to 6.4.0 (fix moderate GHSA-gj48-438w-jh9v) (#142)
+- bump pypdf from 6.13.2 to 6.13.3 (fix moderate GHSA-jm82-fx9c-mx94) (#143)
+- bump jupyter_server to 2.20.0 (fix critical CVE-2026-44727) (#144)
+- bump jupyterlab to 4.5.9 (fix moderate GHSA-vmhf-c436-hxj4) (#146)
+- bump python-multipart to 0.0.31 (fix low CVE-2026-53540) (#147)
+- bump ujson from 5.12.1 to 5.13.0 (fix moderate CVE-2026-54911) (#148)
 
 
