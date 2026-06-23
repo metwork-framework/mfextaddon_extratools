@@ -11,6 +11,7 @@
 - bump ujson from 5.12.0 to 5.12.1 (fix high CVE-2026-44660) (backport #122) (#123)
 - bump python-multipart from 0.0.29 to 0.0.30 (fix high CVE-2026-53539) (#136)
 - bump starlette from 1.2.1 to 1.3.1 (fix high CVE-2026-54283) (backport #138) (#139)
+- bump jupyter_server to 2.20.0 (fix critical CVE-2026-44727) (backport #144) (#145)
 
 ## v2.3.6 (2026-04-08)
 
