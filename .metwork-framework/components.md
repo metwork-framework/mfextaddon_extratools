@@ -45,7 +45,7 @@
 | [jupyterlab_widgets](https://github.com/jupyter-widgets/ipywidgets) | 3.0.15 | python3_extratools |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.2 | python3_extratools |
-| [mistune](https://pypi.org/project/mistune) | 3.2.1 | python3_extratools |
+| [mistune](https://pypi.org/project/mistune) | 3.3.3 | python3_extratools |
 | [narwhals](https://github.com/narwhals-dev/narwhals) | 1.37.0 | python3_extratools |
 | [nbclassic](https://github.com/jupyter/nbclassic) | 1.3.1 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.2 | python3_extratools |
