@@ -53,5 +53,6 @@
 - bump jupyterlab to 4.5.9 (fix moderate GHSA-vmhf-c436-hxj4) (#146)
 - bump python-multipart to 0.0.31 (fix low CVE-2026-53540) (#147)
 - bump ujson from 5.12.1 to 5.13.0 (fix moderate CVE-2026-54911) (#148)
+- bump mistune from 3.2.1 to 3.3.3 (fix high CVE-2026-49851) (#154)
 
 
