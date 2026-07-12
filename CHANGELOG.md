@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump mistune from 3.2.1 to 3.3.3 (fix high CVE-2026-49851) (#154)
+
 ## v2.3.7 (2026-06-23)
 
 ### New Features
