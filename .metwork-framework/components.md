@@ -10,7 +10,7 @@
 | [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.0 | python3_extratools |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
-| [datagouv_client](https://pypi.org/project/datagouv_client) | 0.3.2 | python3_extratools |
+| [datagouv_client](https://pypi.org/project/datagouv_client) | 0.5.0 | python3_extratools |
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [download](https://github.com/choldgraf/download) | 0.3.5 | python3_extratools |
@@ -24,6 +24,7 @@
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_extratools |
 | [ipywidgets](http://jupyter.org) | 8.1.7 | python3_extratools |
 | [isoduration](https://github.com/bolsote/isoduration) | 20.11.0 | python3_extratools |
+| [jh2](https://pypi.org/project/jh2) | 5.0.13 | python3_extratools |
 | [json5](https://pypi.org/project/json5) | 0.12.0 | python3_extratools |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
 | [jupyter-console](https://jupyter.org) | 6.6.3 | python3_extratools |
@@ -47,6 +48,7 @@
 | [nbconvert](https://jupyter.org) | 7.17.1 | python3_extratools |
 | [nbformat](https://jupyter.org) | 5.10.4 | python3_extratools |
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
+| [niquests](https://pypi.org/project/niquests) | 3.21.0 | python3_extratools |
 | [notebook](https://github.com/jupyter/notebook) | 7.5.6 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
@@ -64,6 +66,7 @@
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pyxml2pdf](https://github.com/BjoernLudwigPTB/pyxml2pdf) | 0.3.5 | python3_extratools |
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_extratools |
+| [qh3](https://github.com/jawah/qh3) | 1.9.4 | python3_extratools |
 | [questionary](https://pypi.org/project/questionary) | 2.1.1 | python3_extratools |
 | [reportlab](https://www.reportlab.com/) | 4.4.10 | python3_extratools |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
@@ -81,7 +84,9 @@
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.13.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
+| [urllib3-future](https://pypi.org/project/urllib3-future) | 2.24.900 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_extratools |
+| [wassima](https://pypi.org/project/wassima) | 2.1.3 | python3_extratools |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.1.1 | python3_extratools |
 | [webcolors](https://pypi.org/project/webcolors) | 24.11.1 | python3_extratools |
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
@@ -90,4 +95,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(89 components)*
+*(94 components)*
