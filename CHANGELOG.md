@@ -56,5 +56,6 @@
 - bump mistune from 3.2.1 to 3.3.3 (fix high CVE-2026-49851) (#154)
 - bump jupyterlab from 4.5.9 to 4.5.10 (fix 2 high GHSA) (#157)
 - bump pypdf from 6.13.3 to 6.14.2 (fix 2 high CVE-2026-59935/6)
+- bump pypdf from 6.14.2 to 6.15.0 (fix 2 moderate CVE)
 
 
