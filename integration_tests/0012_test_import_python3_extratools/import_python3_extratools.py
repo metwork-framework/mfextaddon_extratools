@@ -18,6 +18,7 @@ import ipykernel
 import IPython
 import ipywidgets
 import isoduration
+import jh2
 import json5
 import jsonpointer
 import jupyter
@@ -42,10 +43,12 @@ import nbclient
 import nbconvert
 import nbformat
 import nest_asyncio
+import niquests
 import notebook
 import notebook_shim
 import odswriter
 import openpyxl
+import opentelemetry
 import overrides
 import pandocfilters
 import prometheus_client
@@ -57,6 +60,7 @@ import pylsp #python_lsp_server
 import pptx #python-pptx
 import pyxml2pdf
 import zmq #pyzmq
+import qh3
 import questionary
 import reportlab
 import rfc3339_validator
@@ -74,7 +78,9 @@ import tinycss2
 import uc_micro #uc_micro_py
 import ujson
 import uri_template
+import urllib3_future
 import uvicorn
+import wassima
 import watchfiles
 import webcolors
 import webencodings

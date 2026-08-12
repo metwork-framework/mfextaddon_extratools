@@ -1,5 +1,18 @@
 # release_2.3 CHANGELOG
 
+## v2.3.7 (2026-06-23)
+
+### New Features
+
+- bump jupyterlab to 4.5.7 and notebook to 7.5.6 (fix high CVE-2026-40171)
+- bump jupyter_server from 2.16.0 to 2.18.2 (fix high CVEs)
+- bump mistune from 3.1.3 to 3.2.1 (fix high CVE) (backport #118) (#119)
+- bump python-multipart to 0.0.29 (fix high CVE-2026-42561) (#120)
+- bump ujson from 5.12.0 to 5.12.1 (fix high CVE-2026-44660) (backport #122) (#123)
+- bump python-multipart from 0.0.29 to 0.0.30 (fix high CVE-2026-53539) (#136)
+- bump starlette from 1.2.1 to 1.3.1 (fix high CVE-2026-54283) (backport #138) (#139)
+- bump jupyter_server to 2.20.0 (fix critical CVE-2026-44727) (backport #144) (#145)
+
 ## v2.3.6 (2026-04-08)
 
 ### New Features
