@@ -5,7 +5,6 @@ import cairocffi
 import cairosvg
 import comm
 import cssselect2
-import datagouv
 import debugpy
 import docstring_to_markdown
 import download
@@ -89,4 +88,4 @@ import websocket #websocket-client
 import websockets
 import widgetsnbextension
 import xlsxwriter
-import aspose.slides
+#import aspose.slides not Python3.14 compliant for the time being
