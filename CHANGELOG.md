@@ -58,5 +58,6 @@
 - bump pypdf from 6.13.3 to 6.14.2 (fix 2 high CVE-2026-59935/6)
 - bump pypdf from 6.14.2 to 6.15.0 (fix 2 moderate CVE)
 - bump datagouv_client from 0.3.2 to 0.5.0 (#165)
+- bump aspose_slides from 26.5.0 to 26.7.0
 
 
