@@ -59,5 +59,6 @@
 - bump pypdf from 6.14.2 to 6.15.0 (fix 2 moderate CVE)
 - bump datagouv_client from 0.3.2 to 0.5.0 (#165)
 - bump aspose_slides from 26.5.0 to 26.7.0
+- bump shiny from 1.6.3 to 1.7.0 (also bump shinychat to 0.6.1) (#169)
 
 
