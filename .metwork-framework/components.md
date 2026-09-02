@@ -64,7 +64,7 @@
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.31 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pyxml2pdf](https://github.com/BjoernLudwigPTB/pyxml2pdf) | 0.3.5 | python3_extratools |
-| [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_extratools |
+| [pyzmq](https://pyzmq.readthedocs.org) | 27.2.0 | python3_extratools |
 | [qh3](https://github.com/jawah/qh3) | 1.9.4 | python3_extratools |
 | [questionary](https://pypi.org/project/questionary) | 2.1.1 | python3_extratools |
 | [reportlab](https://www.reportlab.com/) | 4.4.10 | python3_extratools |
