@@ -1,5 +1,4 @@
 import asgiref
-import aspose.slides
 import async_lru
 import bleach
 import cairocffi
@@ -90,3 +89,5 @@ import websocket #websocket-client
 import websockets
 import widgetsnbextension
 import xlsxwriter
+import aspose.slides #sometimes not working
+
