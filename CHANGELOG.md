@@ -62,5 +62,6 @@
 - bump shiny from 1.6.3 to 1.7.0 (also bump shinychat to 0.6.1) (#169)
 - bump pyzmq from 26.4.0 to 27.2.0 (compat. Cython 3.3.0) (#170)
 - bump pypdf from 6.15.0 to 6.16.2 (fix 3 moderate CVE) (#172)
+- bump aspose_slides from 26.7.0 to 26.8.0 (compat. Python 3.14)
 
 
