@@ -6,7 +6,7 @@ import cairocffi
 import cairosvg
 import comm
 import cssselect2
-import datagouv
+#import datagouv
 import debugpy
 import docstring_to_markdown
 import download
@@ -69,8 +69,8 @@ import rfc3339_validator
 import rfc3986_validator
 import rlPyCairo
 import send2trash
-import shiny
-import shinychat
+#import shiny
+#import shinychat
 import starlette
 import simpervisor
 import svglib

@@ -3,14 +3,12 @@
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [asgiref](https://github.com/django/asgiref/) | 3.8.1 | python3_extratools |
-| [aspose_slides](https://products.aspose.com/slides/python-net/) | 26.8.0 | python3_extratools |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.5 | python3_extratools |
 | [bleach](https://github.com/mozilla/bleach) | 6.4.0 | python3_extratools |
 | [cairocffi](https://pypi.org/project/cairocffi) | 1.7.1 | python3_extratools |
 | [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.0 | python3_extratools |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
-| [datagouv_client](https://pypi.org/project/datagouv_client) | 0.5.0 | python3_extratools |
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [download](https://github.com/choldgraf/download) | 0.3.5 | python3_extratools |
@@ -73,8 +71,6 @@
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [rlPyCairo](https://pypi.org/project/rlPyCairo) | 0.4.0 | python3_extratools |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
-| [shiny](https://github.com/posit-dev/py-shiny) | 1.7.0 | python3_extratools |
-| [shinychat](https://posit-dev.github.io/shinychat/) | 0.6.1 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_extratools |
 | [svglib](https://github.com/deeplook/svglib) | 1.6.0 | python3_extratools |
@@ -95,4 +91,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(94 components)*
+*(90 components)*
