@@ -1,6 +1,6 @@
 | Name | Version | Layer |
 | --- | --- | --- |
-| [anyio](https://pypi.org/project/anyio) | 4.9.0 | python3_extratools |
+| [anyio](https://pypi.org/project/anyio) | 4.15.1 | python3_extratools |
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [asgiref](https://github.com/django/asgiref/) | 3.8.1 | python3_extratools |
