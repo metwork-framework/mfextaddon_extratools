@@ -7,7 +7,7 @@
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.5 | python3_extratools |
 | [bleach](https://github.com/mozilla/bleach) | 6.4.0 | python3_extratools |
 | [cairocffi](https://pypi.org/project/cairocffi) | 1.7.1 | python3_extratools |
-| [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.0 | python3_extratools |
+| [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.1 | python3_extratools |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
 | [datagouv_client](https://pypi.org/project/datagouv_client) | 0.5.0 | python3_extratools |
