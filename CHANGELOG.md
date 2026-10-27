@@ -9,5 +9,6 @@
 - bump watchfiles from 1.1.1 to 1.2.0 (compat. Python 3.15) (#177)
 - bump CairoSVG from 2.9.0 to 2.9.1 (fix high CVE-2026-107378)
 - bump jupyterlab to 4.6.4 and notebook to 7.6.3 (fix CVE-2026-102832)
+- bump pypdf from 6.16.2 to 6.21.2 (fix 8 high CVE) (#182)
 
 
