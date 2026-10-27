@@ -7,7 +7,7 @@
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.5 | python3_extratools |
 | [bleach](https://github.com/mozilla/bleach) | 6.4.0 | python3_extratools |
 | [cairocffi](https://pypi.org/project/cairocffi) | 1.7.1 | python3_extratools |
-| [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.0 | python3_extratools |
+| [CairoSVG](https://courtbouillon.org/cairosvg) | 2.9.1 | python3_extratools |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [cssselect2](https://doc.courtbouillon.org/cssselect2/) | 0.9.0 | python3_extratools |
 | [datagouv_client](https://pypi.org/project/datagouv_client) | 0.5.0 | python3_extratools |
@@ -31,12 +31,13 @@
 | [jupyter-events](http://jupyter.org) | 0.12.0 | python3_extratools |
 | [jupyter-lsp](https://pypi.org/project/jupyter-lsp) | 2.2.5 | python3_extratools |
 | [jupyter](https://jupyter.org) | 1.1.1 | python3_extratools |
+| [jupyter_builder](https://jupyter.org) | 1.2.3 | python3_extratools |
 | [jupyter_client](https://jupyter.org) | 8.6.3 | python3_extratools |
 | [jupyter_core](https://jupyter.org) | 5.7.2 | python3_extratools |
 | [jupyter_server](https://jupyter-server.readthedocs.io) | 2.20.0 | python3_extratools |
 | [jupyter_server_proxy](https://pypi.org/project/jupyter_server_proxy) | 4.4.0 | python3_extratools |
 | [jupyter_server_terminals](https://jupyter.org) | 0.5.3 | python3_extratools |
-| [jupyterlab](https://jupyter.org) | 4.5.10 | python3_extratools |
+| [jupyterlab](https://jupyter.org) | 4.6.4 | python3_extratools |
 | [jupyterlab_pygments](https://github.com/jupyterlab/jupyterlab_pygments) | 0.3.0 | python3_extratools |
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.28.0 | python3_extratools |
 | [jupyterlab_widgets](https://github.com/jupyter-widgets/ipywidgets) | 3.0.15 | python3_extratools |
@@ -49,7 +50,7 @@
 | [nbformat](https://jupyter.org) | 5.10.4 | python3_extratools |
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
 | [niquests](https://pypi.org/project/niquests) | 3.21.0 | python3_extratools |
-| [notebook](https://github.com/jupyter/notebook) | 7.5.6 | python3_extratools |
+| [notebook](https://github.com/jupyter/notebook) | 7.6.3 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.5 | python3_extratools |
@@ -58,7 +59,7 @@
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.1 | python3_extratools |
 | [pycairo](https://pycairo.readthedocs.io) | 1.29.0 | python3_extratools |
-| [pypdf](https://pypi.org/project/pypdf) | 6.16.2 | python3_extratools |
+| [pypdf](https://pypi.org/project/pypdf) | 6.21.2 | python3_extratools |
 | [python-json-logger](https://nhairs.github.io/python-json-logger) | 3.3.0 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.2 | python3_extratools |
@@ -87,7 +88,7 @@
 | [urllib3-future](https://pypi.org/project/urllib3-future) | 2.24.900 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_extratools |
 | [wassima](https://pypi.org/project/wassima) | 2.1.3 | python3_extratools |
-| [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.1.1 | python3_extratools |
+| [watchfiles](https://github.com/samuelcolvin/watchfiles) | 1.2.0 | python3_extratools |
 | [webcolors](https://pypi.org/project/webcolors) | 24.11.1 | python3_extratools |
 | [webencodings](https://github.com/SimonSapin/python-webencodings) | 0.5.1 | python3_extratools |
 | [websocket-client](https://github.com/websocket-client/websocket-client.git) | 1.8.0 | python3_extratools |
@@ -95,4 +96,4 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.14 | python3_extratools |
 | [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) | 3.2.5 | python3_extratools |
 
-*(94 components)*
+*(95 components)*
