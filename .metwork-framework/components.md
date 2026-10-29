@@ -49,11 +49,7 @@
 | [narwhals](https://github.com/narwhals-dev/narwhals) | 1.37.0 | python3_extratools |
 | [nbclassic](https://github.com/jupyter/nbclassic) | 1.3.1 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.2 | python3_extratools |
-<<<<<<< HEAD
-| [nbconvert](https://jupyter.org) | 7.17.0 | python3_extratools |
-=======
 | [nbconvert](https://jupyter.org) | 7.17.2 | python3_extratools |
->>>>>>> 6942bb2 (feat: bump nbconvert from 7.17.1 to 7.17.2 (fix high CVE-2026-114140) (#185))
 | [nbformat](https://jupyter.org) | 5.10.4 | python3_extratools |
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
 | [notebook](https://github.com/jupyter/notebook) | 7.5.6 | python3_extratools |
