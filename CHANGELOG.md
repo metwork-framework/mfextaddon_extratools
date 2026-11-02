@@ -71,5 +71,6 @@
 - bump pypdf from 6.16.2 to 6.21.2 (fix 8 high CVE) (#182)
 - bump nbconvert from 7.17.1 to 7.17.2 (fix high CVE-2026-114140) (backport #185) (#187)
 - bump opentelemetry-api to 1.45.1 (fix moderate CVE-2026-114603) (backport #188) (#189)
+- bump pypdf from 6.21.2 to 6.21.4 (fix high/medium CVE-2026-119209) (backport #190) (#192)
 
 
