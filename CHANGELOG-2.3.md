@@ -1,5 +1,18 @@
 # release_2.3 CHANGELOG
 
+## v2.3.8 (2026-11-02)
+
+### New Features
+
+- bump mistune from 3.2.1 to 3.3.3 (fix high CVE-2026-49851) (#154)
+- bump jupyterlab from 4.5.9 to 4.5.10 (fix 2 high GHSA) (#157)
+- bump pypdf from 6.13.3 to 6.14.2 (fix 2 high CVE-2026-59935/6)
+- bump anyio from 4.9.0 to 4.15.1 (fix critical CVE-2026-63374) (#178)
+- downgrade anyio from 4.15.1 to 4.14.2
+- bump pypdf from 6.16.2 to 6.21.2 (fix 8 high CVE) (backport #182) (#183)
+- bump nbconvert from 7.17.1 to 7.17.2 (fix high CVE-2026-114140) (backport #185) (#186)
+- bump pypdf from 6.21.2 to 6.21.4 (fix high/medium CVE-2026-119209) (backport #190) (#191)
+
 ## v2.3.7 (2026-06-23)
 
 ### New Features
