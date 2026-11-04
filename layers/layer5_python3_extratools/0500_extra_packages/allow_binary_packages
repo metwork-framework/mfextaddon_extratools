@@ -4,3 +4,4 @@ datagouv_client
 orjson
 PyYAML
 questionary
+yarl
