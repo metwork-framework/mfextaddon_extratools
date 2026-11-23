@@ -76,6 +76,10 @@
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_extratools |
 | [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_extratools |
+<<<<<<< HEAD
+=======
+| [svglib](https://github.com/deeplook/svglib) | 2.4.0 | python3_extratools |
+>>>>>>> 8ee6e11 (feat: bump svglib from 1.6.0 to 2.4.0 (fix high CVE-2026-132275))
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_extratools |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.4.0 | python3_extratools |
